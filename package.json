@@ -1,0 +1,11 @@
+{
+  "name": "nft-component",
+  "version": "1.0.0",
+  "repository": "git@github.com:codemints/nft-component.git",
+  "homepage": "https://codemints.github.io/nft-component/",
+  "author": "CodeMints",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
