@@ -1,0 +1,172 @@
+.text-white {
+  color: white;
+}
+
+.mt-24 {
+  margin-top: 24px;
+}
+
+.mt-16 {
+  margin-top: 16px;
+}
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role=list],
+ol[role=list] {
+  list-style: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+    scroll-behavior: auto;
+  }
+
+  *,
+*::before,
+*::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+body {
+  font-family: "Outfit";
+}
+
+h2 {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1;
+}
+
+p {
+  color: #8BACD9;
+}
+
+body {
+  background-color: #0d192b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 350px;
+  height: 600px;
+  background-color: #14253d;
+  padding: 24px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.2);
+}
+.card .card__image {
+  border-radius: 8px;
+  overflow: hidden;
+}
+.card img {
+  max-width: 100%;
+}
+
+.card__intro p {
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.nft-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 16px;
+}
+.nft-details .nft-details__crypto,
+.nft-details .nft-details__time {
+  display: flex;
+  align-items: center;
+}
+.nft-details .nft-details__crypto img,
+.nft-details .nft-details__time img {
+  margin-right: 10px;
+}
+.nft-details .nft-details__crypto p {
+  color: #00FFF8;
+  font-weight: 600;
+}
+
+.separator {
+  width: 100%;
+  height: 1px;
+  background-color: #2f415b;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+}
+.user .user__image {
+  width: 33px;
+  height: 33px;
+  border: 1px solid white;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+
+/*# sourceMappingURL=/main.39afc03c.css.map */
