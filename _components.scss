@@ -8,8 +8,36 @@
   box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.2);
 
   .card__image {
+    position: relative;
     border-radius: 8px;
     overflow: hidden;
+    background-color: $clr-primary--cyan;
+
+    
+    &:hover {
+      img {
+        &:not([src$='svg']) {
+          opacity: 0.7;
+          transition: all 0.3s ease-in-out;
+        }
+        &[src$='.svg'] {
+          opacity: 1;
+        }
+      }
+    }
+    
+    img {
+      
+      &[src$='.svg'] {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        opacity: 0;
+        transform: translate(-50%, -50%);
+        transition: all 0.3s ease-in-out;
+        z-index: 10;
+      }
+    }
   }
 
   img {
@@ -38,13 +66,6 @@
 
     img {
       margin-right: 10px;
-    }
-  }
-
-  .nft-details__crypto {
-    p {
-      color: $clr-primary--cyan;
-      font-weight: 600;
     }
   }
 }
