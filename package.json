@@ -1,8 +1,16 @@
 {
+  "name": "nft-component",
+  "description": "Simple component built with HTML and Sass, controlled by CUBE CSS and bundled with Parcel",
+  "version": "0.0.1",
+  "homepage": "https://codemints.github.io/nft-component/",
+  "author": "CodeMints",
+  "repository": "https://github.com/codemints/nft-component",
   "scripts": {
-    "dev": "parcel index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build"
   },
   "devDependencies": {
+    "parcel": "^2.4.0",
     "sass": "^1.49.9"
   }
 }
