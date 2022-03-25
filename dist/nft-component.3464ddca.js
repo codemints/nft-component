@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"l9bOl":[function(require,module,exports) {
+})({"i7ncL":[function(require,module,exports) {
 "use strict";
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -515,6 +515,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"j4kuM":[function(require,module,exports) {
 
-},{}]},["l9bOl","j4kuM"], "j4kuM", "parcelRequireb086")
+},{}]},["i7ncL","j4kuM"], "j4kuM", "parcelRequireb086")
 
 //# sourceMappingURL=nft-component.3464ddca.js.map
