@@ -60,6 +60,10 @@ input, button, textarea, select {
   }
 }
 
+html {
+  font-size: 10px;
+}
+
 body {
   font-family: Outfit;
 }
@@ -69,11 +73,13 @@ h2 {
   font-size: 22px;
   font-style: normal;
   font-weight: 600;
-  line-height: 1;
+  line-height: 1.25;
 }
 
 p {
   color: #8bacd9;
+  font-size: 1.6rem;
+  line-height: 1.45;
 }
 
 body {
@@ -140,6 +146,10 @@ body {
 .nft-details .nft-details__crypto, .nft-details .nft-details__time {
   align-items: center;
   display: flex;
+}
+
+.nft-details .nft-details__crypto p, .nft-details .nft-details__time p {
+  line-height: 1.25;
 }
 
 .nft-details .nft-details__crypto img, .nft-details .nft-details__time img {

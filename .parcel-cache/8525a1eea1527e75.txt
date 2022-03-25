@@ -2,7 +2,7 @@
 89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\xxhash-wasm\README.md132926593150850572 0
 61A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\.cache132926593128207599 1
 86A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\fp\floor.js132807716049710000 0
-67A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\package.json132926593151110622 0
+67A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\package.json132926613556940493 0
 82A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\domelementtype132926593145058886 1
 104A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@parcel\source-map\dist\wasm.js.flow132926593132332459 0
 111A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@parcel\workers\lib\process\ProcessChild.js132926593140114069 0
@@ -14,7 +14,7 @@
 89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\fp\endsWith.js132807716049710000 0
 114A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\caniuse-lite\data\features\webkit-user-drag.js132926593142874686 0
 74A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\base-x132926593140924247 1
-59A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist132926604561458984 1
+59A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist132926614001965874 1
 104A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\utility-types\dist\mapped-types.d.ts132926593150770546 0
 66A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\_reset.scss132926604450329283 0
 128A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json132926593129657939 0
@@ -44,7 +44,7 @@
 64A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\main.scss132926593128467669 0
 95A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\css-tree\lib\utils\names.js132926593144668797 0
 93A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\yaml\browser\dist\util.js132926593150940587 0
-70A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\_variables.scss132926593128387652 0
+70A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\_variables.scss132926608070273570 0
 83A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\unzip.js132807716049710000 0
 78A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\source-map132926593149790325 1
 90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\fp\isElement.js132807716049710000 0
@@ -82,7 +82,7 @@
 103A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@parcel\compressor-raw\package.json132926593128997790 0
 99A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@parcel\utils\src\collection.js132926593139623954 0
 89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\_baseKeysIn.js132807716049710000 0
-71A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\_components.scss132926593128377646 0
+71A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\_components.scss132926614001125608 0
 86A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\nullthrows\LICENSE132926593148840111 0
 103A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\terser\node_modules\source-map\dist132926593150430475 1
 93A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\domutils\lib\traversal.js132926593145178919 0
@@ -108,7 +108,7 @@
 78A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\base-x\src132926593140924247 1
 113A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json132926593132192427 0
 92A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\utility-types\SUPPORT.md132926593150730533 0
-71A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\_typography.scss132926593128387652 0
+71A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\_typography.scss132926612196793454 0
 90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\fp\defaultTo.js132807716049710000 0
 80A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\universalify132926589699101007 1
 74A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@types132926593140764216 1
@@ -1205,7 +1205,7 @@
 108A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lmdb\prebuilds\win32-x64\node.abi93.node132926593147829882 0
 90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\domelementtype\LICENSE132926593145038888 0
 86A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\valuesIn.js132807716049710000 0
-89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\nft-component.3464ddca.js.map132926601672161369 0
+89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\nft-component.3464ddca.js.map132926613831808273 0
 120A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js132926593144588783 0
 90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\commander\package.json132804635178930000 0
 96A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\type-fest\source\opaque.d.ts132926593150640514 0
@@ -2855,7 +2855,7 @@
 92A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\_copySymbolsIn.js132807716049710000 0
 111A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\caniuse-lite\data\features\css-paint-api.js132926593141604402 0
 89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\_coreJsData.js132807716049710000 0
-82A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\icon-view.cfdb264b.svg132926601671971338 0
+82A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\icon-view.cfdb264b.svg132926613831648238 0
 89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\css-what\lib\index.js132926593144688812 0
 89A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\lodash\_createBind.js132807716049710000 0
 108A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@parcel\source-map\dist\wasm-bindings.js132926593132322456 0
@@ -4249,7 +4249,7 @@
 86A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\commondir\index.js132804635152820000 0
 99A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\caniuse-lite\data\regions\LV.js132926593143368511 0
 93A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\commondir\readme.markdown132804635152820000 0
-90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\image-equilibrium.37c23578.jpg132926601671951321 0
+90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\image-equilibrium.37c23578.jpg132926613831588218 0
 88A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\chalk\source\util.js132926593143818613 0
 90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\commondir\test\dirs.js132804635152820000 0
 90A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\commander\CHANGELOG.md132804635178930000 0
@@ -4972,7 +4972,7 @@
 109A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@swc\helpers\lib\_class_name_tdz_error.js132926593140294108 0
 120A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@swc\helpers\lib\_class_private_field_destructure.js132926593140294108 0
 113A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@swc\helpers\lib\_class_private_field_init.js132926593140304110 0
-78A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\index.b1276d39.css132926604561418974 0
+78A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\index.b1276d39.css132926614001955862 0
 119A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@swc\helpers\lib\_class_private_field_loose_base.js132926593140304110 0
 97A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@babel\highlight\package.json132926593128737730 0
 113A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\node_modules\@swc\helpers\lib\_class_private_method_get.js132926593140314113 0
@@ -5830,12 +5830,12 @@
 76A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\img\favicon-32x32.png132926593128437662 0
 73A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\img\icon-clock.svg132926593128447661 0
 80A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\img\image-equilibrium.jpg132926593128457671 0
-83A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\icon-clock.767f3054.svg132926601671951321 0
-86A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\icon-ethereum.51ee5656.svg132926601671951321 0
-85A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\image-avatar.cac81ae8.png132926601671951321 0
-82A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\index.b1276d39.css.map132926604561428975 0
-70A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\index.html132926601672091354 0
-85A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\nft-component.3464ddca.js132926601672141370 0
+83A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\icon-clock.767f3054.svg132926613832058334 0
+86A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\icon-ethereum.51ee5656.svg132926613832078324 0
+85A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\image-avatar.cac81ae8.png132926613831588218 0
+82A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\index.b1276d39.css.map132926614001955862 0
+70A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\index.html132926613831758252 0
+85A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\dist\nft-component.3464ddca.js132926613831798267 0
 64A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\.cache\00132926593128035633 1
 64A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\.cache\2b132926593128055631 1
 64A:\DEV_PROJECTS\frontend-mentor-projects\nft-component\.cache\2d132926593128065635 1
