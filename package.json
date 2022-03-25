@@ -7,9 +7,10 @@
   "repository": "https://github.com/codemints/nft-component",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.0",
     "parcel": "^2.4.0",
     "sass": "^1.49.9"
   }
