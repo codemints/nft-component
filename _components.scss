@@ -1,0 +1,88 @@
+.card {
+  width: 350px;
+  height: 600px;
+  background-color: $clr-dark--400;
+  padding: 24px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.2);
+
+  .card__image {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: $clr-primary--cyan;
+
+    
+    &:hover {
+      img {
+        &:not([src$='svg']) {
+          opacity: 0.7;
+          transition: all 0.3s ease-in-out;
+        }
+        &[src$='.svg'] {
+          opacity: 1;
+        }
+      }
+    }
+    
+    img {
+      
+      &[src$='.svg'] {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        opacity: 0;
+        transform: translate(-50%, -50%);
+        transition: all 0.3s ease-in-out;
+        z-index: 10;
+      }
+    }
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+.card__intro {
+
+  p {
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+  }
+}
+.nft-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 16px;
+
+  .nft-details__crypto,
+  .nft-details__time {
+    display: flex;
+    align-items: center;
+
+    img {
+      margin-right: 10px;
+    }
+  }
+}
+.separator {
+  width: 100%;
+  height: 1px;
+  background-color: $clr-dark--200;
+}
+.user {
+  display: flex;
+  align-items: center;
+
+  .user__image {
+    width: 33px;
+    height: 33px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-right: 16px;
+  }
+}
